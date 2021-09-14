@@ -29,8 +29,8 @@
 <url> <loc>https://padawanr0k.github.io/posts/etc/Idempotent/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/HTML/html tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/algorithm/react with daum-map.1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://padawanr0k.github.io/posts/error/gitUppercase/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/error/inputMagnified/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://padawanr0k.github.io/posts/error/gitUppercase/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/github/react-gh-pages/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/etc/font_subset/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/etc/developer_post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -55,8 +55,8 @@
 <url> <loc>https://padawanr0k.github.io/posts/github/githubAction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/ft_seoul/42checkin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/web/cookie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://padawanr0k.github.io/posts/ft_seoul/42checkin_issue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/ft_seoul/ft_printf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://padawanr0k.github.io/posts/ft_seoul/42checkin_issue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/ft_seoul/born2beroot/01/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/ft_seoul/born2beroot/02/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/javascript/nodejs/logger/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -66,6 +66,7 @@
 <url> <loc>https://padawanr0k.github.io/posts/etc/book_uiux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/javascript/monitoring/slack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/posts/etc/til/2021-09_2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://padawanr0k.github.io/posts/cloud/elb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/tags/css/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/tags/algorithm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/tags/javascript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -79,6 +80,7 @@
 <url> <loc>https://padawanr0k.github.io/tags/42-seoul/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/tags/web/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/tags/tip/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://padawanr0k.github.io/tags/cloud/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/author/ghost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/author/padawanr-0-k/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://padawanr0k.github.io/author/another-author/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
